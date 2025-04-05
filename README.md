@@ -40,16 +40,6 @@ If you want to take a closer look at the designs, check out this [Figma Design](
 ![image](https://github.com/user-attachments/assets/64b71fcb-201b-4c25-9d03-ed70fb1a7bc1)
 
 
-## Progress Till Now
-
-I have coded the UI for the Patient Portal and am currently working on the Doctor's UI flow so that, if selected for GSoC, my main focus will be integrating both the Doctor and Patient portals with the backend and adding the necessary functionalities
-
-Check out this working prototype of the Patient User Flow, coded in Flutter. Right now, all data is hardcoded, but it will be connected to the backend during GSoC.
-
-https://github.com/user-attachments/assets/347ac4a8-176d-4f2c-bb72-24d1a1105f24
-
-(Sorry for the low-quality video—GitHub restricts uploads to under 10MB per message.)
-
 ## Tech Stack
 
 ### Frontend
