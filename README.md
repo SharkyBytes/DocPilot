@@ -39,6 +39,17 @@ If you want to take a closer look at the designs, check out this [Figma Design](
 
 ![image](https://github.com/user-attachments/assets/64b71fcb-201b-4c25-9d03-ed70fb1a7bc1)
 
+### Working Prototype
+
+Patient Flow Prototype
+
+
+https://github.com/user-attachments/assets/f4e7c267-fad7-438d-9927-2969dd3ba07b
+
+Doctor Flow Prototype
+
+https://github.com/user-attachments/assets/9000a5e7-7c17-47a9-9752-55416ea15dbe
+
 
 ## Tech Stack
 
